@@ -1,0 +1,593 @@
+{State: {"X":753,"Y":151,"VSpeed":0,"Flags":5,"RoundedY":151}, Action:  }
+{State: {"X":750,"Y":147.575,"VSpeed":-3.4250000000000003,"Flags":1,"RoundedY":148}, Action: Left, Jump, Release }
+{State: {"X":747,"Y":144.825,"VSpeed":-2.75,"Flags":0,"RoundedY":145}, Action: Left, Jump, Release }
+{State: {"X":744,"Y":143.98749999999998,"VSpeed":-0.8375,"Flags":0,"RoundedY":144}, Action: Left, Release }
+{State: {"X":741,"Y":144.01062499999998,"VSpeed":0.023125000000000007,"Flags":0,"RoundedY":144}, Action: Left, Release }
+{State: {"X":738,"Y":144.43374999999997,"VSpeed":0.42312500000000003,"Flags":0,"RoundedY":144}, Action: Left }
+{State: {"X":735,"Y":145.25687499999998,"VSpeed":0.8231250000000001,"Flags":0,"RoundedY":145}, Action: Left }
+{State: {"X":732,"Y":146.48,"VSpeed":1.223125,"Flags":0,"RoundedY":146}, Action: Left }
+{State: {"X":729,"Y":148.10312499999998,"VSpeed":1.623125,"Flags":0,"RoundedY":148}, Action: Left }
+{State: {"X":726,"Y":150.12624999999997,"VSpeed":2.023125,"Flags":0,"RoundedY":150}, Action: Left }
+{State: {"X":723,"Y":151.12624999999997,"VSpeed":0,"Flags":1,"RoundedY":151}, Action: Left }
+{State: {"X":720,"Y":147.70124999999996,"VSpeed":-3.4250000000000003,"Flags":1,"RoundedY":148}, Action: Left, Jump, Release }
+{State: {"X":717,"Y":144.95124999999996,"VSpeed":-2.75,"Flags":0,"RoundedY":145}, Action: Left, Jump, Release }
+{State: {"X":714,"Y":144.11374999999995,"VSpeed":-0.8375,"Flags":0,"RoundedY":144}, Action: Left, Release }
+{State: {"X":711,"Y":144.13687499999995,"VSpeed":0.023125000000000007,"Flags":0,"RoundedY":144}, Action: Left, Release }
+{State: {"X":708,"Y":144.55999999999995,"VSpeed":0.42312500000000003,"Flags":0,"RoundedY":145}, Action: Left }
+{State: {"X":705,"Y":145.38312499999995,"VSpeed":0.8231250000000001,"Flags":0,"RoundedY":145}, Action: Left }
+{State: {"X":702,"Y":146.60624999999996,"VSpeed":1.223125,"Flags":0,"RoundedY":147}, Action: Left }
+{State: {"X":699,"Y":148.22937499999995,"VSpeed":1.623125,"Flags":0,"RoundedY":148}, Action: Left }
+{State: {"X":696,"Y":150.25249999999994,"VSpeed":2.023125,"Flags":0,"RoundedY":150}, Action: Left }
+{State: {"X":693,"Y":151.25249999999994,"VSpeed":0,"Flags":1,"RoundedY":151}, Action: Left }
+{State: {"X":690,"Y":143.15249999999995,"VSpeed":-8.1,"Flags":1,"RoundedY":143}, Action: Left, Jump }
+{State: {"X":687,"Y":135.45249999999996,"VSpeed":-7.699999999999999,"Flags":1,"RoundedY":135}, Action: Left }
+{State: {"X":684,"Y":128.15249999999995,"VSpeed":-7.299999999999999,"Flags":1,"RoundedY":128}, Action: Left }
+{State: {"X":681,"Y":121.55249999999995,"VSpeed":-6.6,"Flags":0,"RoundedY":122}, Action: Left, Jump }
+{State: {"X":678,"Y":115.35249999999995,"VSpeed":-6.199999999999999,"Flags":0,"RoundedY":115}, Action: Left }
+{State: {"X":675,"Y":109.55249999999995,"VSpeed":-5.799999999999999,"Flags":0,"RoundedY":110}, Action: Left }
+{State: {"X":672,"Y":104.15249999999995,"VSpeed":-5.399999999999999,"Flags":0,"RoundedY":104}, Action: Left }
+{State: {"X":669,"Y":99.15249999999995,"VSpeed":-4.999999999999998,"Flags":0,"RoundedY":99}, Action: Left }
+{State: {"X":666,"Y":94.55249999999995,"VSpeed":-4.599999999999998,"Flags":0,"RoundedY":95}, Action: Left }
+{State: {"X":663,"Y":90.35249999999995,"VSpeed":-4.1999999999999975,"Flags":0,"RoundedY":90}, Action: Left }
+{State: {"X":660,"Y":86.55249999999995,"VSpeed":-3.7999999999999976,"Flags":0,"RoundedY":87}, Action: Left }
+{State: {"X":657,"Y":85.24249999999995,"VSpeed":-1.3099999999999987,"Flags":0,"RoundedY":85}, Action: Left, Release }
+{State: {"X":654,"Y":85.05299999999995,"VSpeed":-0.18949999999999945,"Flags":0,"RoundedY":85}, Action: Left, Release }
+{State: {"X":651,"Y":85.36772499999995,"VSpeed":0.31472500000000025,"Flags":0,"RoundedY":85}, Action: Left, Release }
+{State: {"X":648,"Y":86.08244999999995,"VSpeed":0.7147250000000003,"Flags":0,"RoundedY":86}, Action: Left }
+{State: {"X":645,"Y":87.19717499999996,"VSpeed":1.1147250000000004,"Flags":0,"RoundedY":87}, Action: Left }
+{State: {"X":642,"Y":88.71189999999996,"VSpeed":1.5147250000000003,"Flags":0,"RoundedY":89}, Action: Left }
+{State: {"X":639,"Y":90.62662499999996,"VSpeed":1.9147250000000002,"Flags":0,"RoundedY":91}, Action: Left }
+{State: {"X":636,"Y":92.94134999999996,"VSpeed":2.314725,"Flags":0,"RoundedY":93}, Action: Left }
+{State: {"X":633,"Y":95.65607499999996,"VSpeed":2.714725,"Flags":0,"RoundedY":96}, Action: Left }
+{State: {"X":630,"Y":98.77079999999995,"VSpeed":3.114725,"Flags":0,"RoundedY":99}, Action: Left }
+{State: {"X":627,"Y":102.28552499999995,"VSpeed":3.514725,"Flags":0,"RoundedY":102}, Action: Left }
+{State: {"X":624,"Y":106.20024999999995,"VSpeed":3.914725,"Flags":0,"RoundedY":106}, Action: Left }
+{State: {"X":621,"Y":110.51497499999995,"VSpeed":4.314725,"Flags":0,"RoundedY":111}, Action: Left }
+{State: {"X":618,"Y":115.22969999999995,"VSpeed":4.7147250000000005,"Flags":0,"RoundedY":115}, Action: Left }
+{State: {"X":615,"Y":120.34442499999996,"VSpeed":5.114725000000001,"Flags":0,"RoundedY":120}, Action: Left }
+{State: {"X":612,"Y":125.85914999999996,"VSpeed":5.514725000000001,"Flags":0,"RoundedY":126}, Action: Left }
+{State: {"X":609,"Y":131.77387499999995,"VSpeed":5.914725000000002,"Flags":0,"RoundedY":132}, Action: Left }
+{State: {"X":606,"Y":138.08859999999996,"VSpeed":6.314725000000002,"Flags":0,"RoundedY":138}, Action: Left }
+{State: {"X":603,"Y":144.80332499999997,"VSpeed":6.714725000000002,"Flags":0,"RoundedY":145}, Action: Left }
+{State: {"X":600,"Y":150.80332499999997,"VSpeed":0,"Flags":1,"RoundedY":151}, Action: Left }
+{State: {"X":597,"Y":147.37832499999996,"VSpeed":-3.4250000000000003,"Flags":1,"RoundedY":147}, Action: Left, Jump, Release }
+{State: {"X":594,"Y":146.23707499999995,"VSpeed":-1.1412500000000003,"Flags":1,"RoundedY":146}, Action: Left, Release }
+{State: {"X":591,"Y":146.12351249999995,"VSpeed":-0.11356250000000012,"Flags":1,"RoundedY":146}, Action: Left, Release }
+{State: {"X":588,"Y":146.47240937499996,"VSpeed":0.348896875,"Flags":1,"RoundedY":146}, Action: Left, Release }
+{State: {"X":585,"Y":147.22130624999997,"VSpeed":0.748896875,"Flags":1,"RoundedY":147}, Action: Left }
+{State: {"X":582,"Y":140.62130624999998,"VSpeed":-6.6,"Flags":0,"RoundedY":141}, Action: Left, Jump }
+{State: {"X":579,"Y":134.42130625,"VSpeed":-6.199999999999999,"Flags":0,"RoundedY":134}, Action: Left }
+{State: {"X":576,"Y":128.62130624999998,"VSpeed":-5.799999999999999,"Flags":0,"RoundedY":129}, Action: Left }
+{State: {"X":573,"Y":123.22130624999997,"VSpeed":-5.399999999999999,"Flags":0,"RoundedY":123}, Action: Left }
+{State: {"X":570,"Y":118.22130624999997,"VSpeed":-4.999999999999998,"Flags":0,"RoundedY":118}, Action: Left }
+{State: {"X":567,"Y":113.62130624999998,"VSpeed":-4.599999999999998,"Flags":0,"RoundedY":114}, Action: Left }
+{State: {"X":564,"Y":109.42130624999997,"VSpeed":-4.1999999999999975,"Flags":0,"RoundedY":109}, Action: Left }
+{State: {"X":561,"Y":105.62130624999998,"VSpeed":-3.7999999999999976,"Flags":0,"RoundedY":106}, Action: Left }
+{State: {"X":558,"Y":102.22130624999998,"VSpeed":-3.3999999999999977,"Flags":0,"RoundedY":102}, Action: Left }
+{State: {"X":555,"Y":99.22130624999998,"VSpeed":-2.999999999999998,"Flags":0,"RoundedY":99}, Action: Left }
+{State: {"X":552,"Y":96.62130624999999,"VSpeed":-2.599999999999998,"Flags":0,"RoundedY":97}, Action: Left }
+{State: {"X":549,"Y":94.42130624999999,"VSpeed":-2.199999999999998,"Flags":0,"RoundedY":94}, Action: Left }
+{State: {"X":546,"Y":92.62130624999999,"VSpeed":-1.799999999999998,"Flags":0,"RoundedY":93}, Action: Left }
+{State: {"X":543,"Y":91.22130625,"VSpeed":-1.3999999999999981,"Flags":0,"RoundedY":91}, Action: Left }
+{State: {"X":540,"Y":90.22130625,"VSpeed":-0.9999999999999981,"Flags":0,"RoundedY":90}, Action: Left }
+{State: {"X":537,"Y":89.62130625,"VSpeed":-0.5999999999999981,"Flags":0,"RoundedY":90}, Action: Left }
+{State: {"X":534,"Y":89.42130625,"VSpeed":-0.19999999999999807,"Flags":0,"RoundedY":89}, Action: Left }
+{State: {"X":531,"Y":89.73130625,"VSpeed":0.3100000000000009,"Flags":0,"RoundedY":90}, Action: Left, Release }
+{State: {"X":528,"Y":90.44130625,"VSpeed":0.7100000000000009,"Flags":0,"RoundedY":90}, Action: Left }
+{State: {"X":525,"Y":91.55130625,"VSpeed":1.1100000000000008,"Flags":0,"RoundedY":92}, Action: Left }
+{State: {"X":522,"Y":93.06130625,"VSpeed":1.5100000000000007,"Flags":0,"RoundedY":93}, Action: Left }
+{State: {"X":519,"Y":94.97130625,"VSpeed":1.9100000000000006,"Flags":0,"RoundedY":95}, Action: Left }
+{State: {"X":516,"Y":97.28130625,"VSpeed":2.3100000000000005,"Flags":0,"RoundedY":97}, Action: Left }
+{State: {"X":513,"Y":99.99130625,"VSpeed":2.7100000000000004,"Flags":0,"RoundedY":100}, Action: Left }
+{State: {"X":510,"Y":103.10130625,"VSpeed":3.1100000000000003,"Flags":0,"RoundedY":103}, Action: Left }
+{State: {"X":507,"Y":106.61130625,"VSpeed":3.5100000000000002,"Flags":0,"RoundedY":107}, Action: Left }
+{State: {"X":504,"Y":110.52130625,"VSpeed":3.91,"Flags":0,"RoundedY":111}, Action: Left }
+{State: {"X":501,"Y":114.83130625,"VSpeed":4.3100000000000005,"Flags":0,"RoundedY":115}, Action: Left }
+{State: {"X":498,"Y":119.54130624999999,"VSpeed":4.710000000000001,"Flags":0,"RoundedY":120}, Action: Left }
+{State: {"X":495,"Y":124.65130624999999,"VSpeed":5.110000000000001,"Flags":0,"RoundedY":125}, Action: Left }
+{State: {"X":492,"Y":130.16130625,"VSpeed":5.510000000000002,"Flags":0,"RoundedY":130}, Action: Left }
+{State: {"X":489,"Y":136.07130625,"VSpeed":5.910000000000002,"Flags":0,"RoundedY":136}, Action: Left }
+{State: {"X":486,"Y":142.38130625,"VSpeed":6.310000000000002,"Flags":0,"RoundedY":142}, Action: Left }
+{State: {"X":483,"Y":149.09130625,"VSpeed":6.710000000000003,"Flags":0,"RoundedY":149}, Action: Left }
+{State: {"X":480,"Y":151.09130625,"VSpeed":0,"Flags":1,"RoundedY":151}, Action: Left }
+{State: {"X":477,"Y":147.66630625,"VSpeed":-3.4250000000000003,"Flags":1,"RoundedY":148}, Action: Left, Jump, Release }
+{State: {"X":474,"Y":141.06630625,"VSpeed":-6.6,"Flags":0,"RoundedY":141}, Action: Left, Jump }
+{State: {"X":471,"Y":134.86630625,"VSpeed":-6.199999999999999,"Flags":0,"RoundedY":135}, Action: Left }
+{State: {"X":468,"Y":129.06630625,"VSpeed":-5.799999999999999,"Flags":0,"RoundedY":129}, Action: Left }
+{State: {"X":465,"Y":123.66630624999999,"VSpeed":-5.399999999999999,"Flags":0,"RoundedY":124}, Action: Left }
+{State: {"X":462,"Y":121.63630624999999,"VSpeed":-2.0299999999999994,"Flags":0,"RoundedY":122}, Action: Left, Release }
+{State: {"X":459,"Y":120.00630625,"VSpeed":-1.6299999999999994,"Flags":0,"RoundedY":120}, Action: Left }
+{State: {"X":456,"Y":118.77630624999999,"VSpeed":-1.2299999999999995,"Flags":0,"RoundedY":119}, Action: Left }
+{State: {"X":453,"Y":118.62280625,"VSpeed":-0.15349999999999975,"Flags":0,"RoundedY":119}, Action: Left, Release }
+{State: {"X":450,"Y":118.95373124999999,"VSpeed":0.33092500000000014,"Flags":0,"RoundedY":119}, Action: Left, Release }
+{State: {"X":447,"Y":115.52873124999999,"VSpeed":-3.4250000000000003,"Flags":1,"RoundedY":116}, Action: Left, Jump, Release }
+{State: {"X":444,"Y":112.77873124999999,"VSpeed":-2.75,"Flags":0,"RoundedY":113}, Action: Left, Jump, Release }
+{State: {"X":441,"Y":111.94123124999999,"VSpeed":-0.8375,"Flags":0,"RoundedY":112}, Action: Left, Release }
+{State: {"X":438,"Y":111.96435624999998,"VSpeed":0.023125000000000007,"Flags":0,"RoundedY":112}, Action: Left, Release }
+{State: {"X":435,"Y":112.38748124999998,"VSpeed":0.42312500000000003,"Flags":0,"RoundedY":112}, Action: Left }
+{State: {"X":432,"Y":113.21060624999998,"VSpeed":0.8231250000000001,"Flags":0,"RoundedY":113}, Action: Left }
+{State: {"X":429,"Y":114.43373124999998,"VSpeed":1.223125,"Flags":0,"RoundedY":114}, Action: Left }
+{State: {"X":426,"Y":116.05685624999998,"VSpeed":1.623125,"Flags":0,"RoundedY":116}, Action: Left }
+{State: {"X":423,"Y":118.07998124999997,"VSpeed":2.023125,"Flags":0,"RoundedY":118}, Action: Left }
+{State: {"X":420,"Y":119.07998124999997,"VSpeed":0,"Flags":1,"RoundedY":119}, Action: Left }
+{State: {"X":417,"Y":115.65498124999998,"VSpeed":-3.4250000000000003,"Flags":1,"RoundedY":116}, Action: Left, Jump, Release }
+{State: {"X":414,"Y":112.90498124999998,"VSpeed":-2.75,"Flags":0,"RoundedY":113}, Action: Left, Jump, Release }
+{State: {"X":411,"Y":112.06748124999997,"VSpeed":-0.8375,"Flags":0,"RoundedY":112}, Action: Left, Release }
+{State: {"X":408,"Y":112.09060624999996,"VSpeed":0.023125000000000007,"Flags":0,"RoundedY":112}, Action: Left, Release }
+{State: {"X":405,"Y":112.51373124999996,"VSpeed":0.42312500000000003,"Flags":0,"RoundedY":113}, Action: Left }
+{State: {"X":402,"Y":113.33685624999997,"VSpeed":0.8231250000000001,"Flags":0,"RoundedY":113}, Action: Left }
+{State: {"X":399,"Y":114.55998124999996,"VSpeed":1.223125,"Flags":0,"RoundedY":115}, Action: Left }
+{State: {"X":396,"Y":116.18310624999997,"VSpeed":1.623125,"Flags":0,"RoundedY":116}, Action: Left }
+{State: {"X":393,"Y":118.20623124999996,"VSpeed":2.023125,"Flags":0,"RoundedY":118}, Action: Left }
+{State: {"X":390,"Y":119.20623124999996,"VSpeed":0,"Flags":1,"RoundedY":119}, Action: Left }
+{State: {"X":387,"Y":115.78123124999996,"VSpeed":-3.4250000000000003,"Flags":1,"RoundedY":116}, Action: Left, Jump, Release }
+{State: {"X":384,"Y":113.03123124999996,"VSpeed":-2.75,"Flags":0,"RoundedY":113}, Action: Left, Jump, Release }
+{State: {"X":381,"Y":112.19373124999996,"VSpeed":-0.8375,"Flags":0,"RoundedY":112}, Action: Left, Release }
+{State: {"X":378,"Y":112.21685624999995,"VSpeed":0.023125000000000007,"Flags":0,"RoundedY":112}, Action: Left, Release }
+{State: {"X":375,"Y":112.63998124999995,"VSpeed":0.42312500000000003,"Flags":0,"RoundedY":113}, Action: Left }
+{State: {"X":372,"Y":113.46310624999995,"VSpeed":0.8231250000000001,"Flags":0,"RoundedY":113}, Action: Left }
+{State: {"X":369,"Y":114.68623124999995,"VSpeed":1.223125,"Flags":0,"RoundedY":115}, Action: Left }
+{State: {"X":366,"Y":116.30935624999995,"VSpeed":1.623125,"Flags":0,"RoundedY":116}, Action: Left }
+{State: {"X":363,"Y":118.33248124999994,"VSpeed":2.023125,"Flags":0,"RoundedY":118}, Action: Left }
+{State: {"X":360,"Y":120.75560624999994,"VSpeed":2.4231249999999998,"Flags":0,"RoundedY":121}, Action: Left }
+{State: {"X":357,"Y":123.57873124999995,"VSpeed":2.8231249999999997,"Flags":0,"RoundedY":124}, Action: Left }
+{State: {"X":354,"Y":126.80185624999994,"VSpeed":3.2231249999999996,"Flags":0,"RoundedY":127}, Action: Left }
+{State: {"X":351,"Y":130.42498124999995,"VSpeed":3.6231249999999995,"Flags":0,"RoundedY":130}, Action: Left }
+{State: {"X":348,"Y":134.44810624999994,"VSpeed":4.023124999999999,"Flags":0,"RoundedY":134}, Action: Left }
+{State: {"X":345,"Y":138.87123124999994,"VSpeed":4.423125,"Flags":0,"RoundedY":139}, Action: Left }
+{State: {"X":342,"Y":143.69435624999994,"VSpeed":4.823125,"Flags":0,"RoundedY":144}, Action: Left }
+{State: {"X":339,"Y":148.91748124999995,"VSpeed":5.2231250000000005,"Flags":0,"RoundedY":149}, Action: Left }
+{State: {"X":336,"Y":150.91748124999995,"VSpeed":0,"Flags":1,"RoundedY":151}, Action: Left }
+{State: {"X":333,"Y":147.49248124999994,"VSpeed":-3.4250000000000003,"Flags":1,"RoundedY":147}, Action: Left, Jump, Release }
+{State: {"X":330,"Y":140.89248124999995,"VSpeed":-6.6,"Flags":0,"RoundedY":141}, Action: Left, Jump }
+{State: {"X":327,"Y":138.32248124999995,"VSpeed":-2.57,"Flags":0,"RoundedY":138}, Action: Left, Release }
+{State: {"X":324,"Y":137.56598124999996,"VSpeed":-0.7564999999999998,"Flags":0,"RoundedY":138}, Action: Left, Release }
+{State: {"X":321,"Y":137.62555624999996,"VSpeed":0.0595750000000001,"Flags":0,"RoundedY":138}, Action: Left, Release }
+{State: {"X":318,"Y":138.08513124999996,"VSpeed":0.4595750000000001,"Flags":0,"RoundedY":138}, Action: Left }
+{State: {"X":315,"Y":138.94470624999997,"VSpeed":0.8595750000000002,"Flags":0,"RoundedY":139}, Action: Left }
+{State: {"X":312,"Y":140.20428124999998,"VSpeed":1.2595750000000003,"Flags":0,"RoundedY":140}, Action: Left }
+{State: {"X":309,"Y":141.86385624999997,"VSpeed":1.6595750000000002,"Flags":0,"RoundedY":142}, Action: Left }
+{State: {"X":306,"Y":143.92343124999996,"VSpeed":2.059575,"Flags":0,"RoundedY":144}, Action: Left }
+{State: {"X":303,"Y":146.38300624999997,"VSpeed":2.459575,"Flags":0,"RoundedY":146}, Action: Left }
+{State: {"X":300,"Y":149.24258124999997,"VSpeed":2.859575,"Flags":0,"RoundedY":149}, Action: Left }
+{State: {"X":297,"Y":152.50215624999998,"VSpeed":3.259575,"Flags":0,"RoundedY":153}, Action: Left }
+{State: {"X":294,"Y":156.16173124999997,"VSpeed":3.659575,"Flags":0,"RoundedY":156}, Action: Left }
+{State: {"X":291,"Y":160.22130624999997,"VSpeed":4.059575,"Flags":0,"RoundedY":160}, Action: Left }
+{State: {"X":288,"Y":164.68088124999997,"VSpeed":4.459575,"Flags":0,"RoundedY":165}, Action: Left }
+{State: {"X":285,"Y":169.54045624999998,"VSpeed":4.859575,"Flags":0,"RoundedY":170}, Action: Left }
+{State: {"X":282,"Y":174.80003125,"VSpeed":5.259575000000001,"Flags":0,"RoundedY":175}, Action: Left }
+{State: {"X":279,"Y":180.45960624999998,"VSpeed":5.659575000000001,"Flags":0,"RoundedY":180}, Action: Left }
+{State: {"X":276,"Y":183.45960624999998,"VSpeed":0,"Flags":1,"RoundedY":183}, Action: Left }
+{State: {"X":273,"Y":183.45960624999998,"VSpeed":0,"Flags":1,"RoundedY":183}, Action: Left }
+{State: {"X":270,"Y":183.45960624999998,"VSpeed":0,"Flags":1,"RoundedY":183}, Action: Left }
+{State: {"X":267,"Y":183.45960624999998,"VSpeed":0,"Flags":1,"RoundedY":183}, Action: Left }
+{State: {"X":264,"Y":183.45960624999998,"VSpeed":0,"Flags":1,"RoundedY":183}, Action: Left }
+{State: {"X":261,"Y":183.45960624999998,"VSpeed":0,"Flags":1,"RoundedY":183}, Action: Left }
+{State: {"X":258,"Y":183.45960624999998,"VSpeed":0,"Flags":1,"RoundedY":183}, Action: Left }
+{State: {"X":255,"Y":183.45960624999998,"VSpeed":0,"Flags":1,"RoundedY":183}, Action: Left }
+{State: {"X":252,"Y":175.35960624999998,"VSpeed":-8.1,"Flags":1,"RoundedY":175}, Action: Left, Jump }
+{State: {"X":249,"Y":167.65960625,"VSpeed":-7.699999999999999,"Flags":1,"RoundedY":168}, Action: Left }
+{State: {"X":246,"Y":160.35960624999998,"VSpeed":-7.299999999999999,"Flags":1,"RoundedY":160}, Action: Left }
+{State: {"X":243,"Y":153.45960624999998,"VSpeed":-6.899999999999999,"Flags":1,"RoundedY":153}, Action: Left }
+{State: {"X":240,"Y":146.95960624999998,"VSpeed":-6.499999999999998,"Flags":1,"RoundedY":147}, Action: Left }
+{State: {"X":237,"Y":140.85960624999998,"VSpeed":-6.099999999999998,"Flags":1,"RoundedY":141}, Action: Left }
+{State: {"X":234,"Y":135.15960625,"VSpeed":-5.6999999999999975,"Flags":1,"RoundedY":135}, Action: Left }
+{State: {"X":231,"Y":129.85960625,"VSpeed":-5.299999999999997,"Flags":1,"RoundedY":130}, Action: Left }
+{State: {"X":228,"Y":124.95960625000002,"VSpeed":-4.899999999999997,"Flags":1,"RoundedY":125}, Action: Left }
+{State: {"X":225,"Y":120.45960625000002,"VSpeed":-4.4999999999999964,"Flags":1,"RoundedY":120}, Action: Left }
+{State: {"X":222,"Y":116.35960625000003,"VSpeed":-4.099999999999996,"Flags":1,"RoundedY":116}, Action: Left }
+{State: {"X":219,"Y":112.65960625000002,"VSpeed":-3.699999999999996,"Flags":1,"RoundedY":113}, Action: Left }
+{State: {"X":216,"Y":109.35960625000003,"VSpeed":-3.2999999999999963,"Flags":1,"RoundedY":109}, Action: Left }
+{State: {"X":213,"Y":106.45960625000004,"VSpeed":-2.8999999999999964,"Flags":1,"RoundedY":106}, Action: Left }
+{State: {"X":210,"Y":103.95960625000004,"VSpeed":-2.4999999999999964,"Flags":1,"RoundedY":104}, Action: Left }
+{State: {"X":207,"Y":101.85960625000004,"VSpeed":-2.0999999999999965,"Flags":1,"RoundedY":102}, Action: Left }
+{State: {"X":204,"Y":100.15960625000004,"VSpeed":-1.6999999999999966,"Flags":1,"RoundedY":100}, Action: Left }
+{State: {"X":201,"Y":99.79460625000004,"VSpeed":-0.36499999999999844,"Flags":1,"RoundedY":100}, Action: Left, Release }
+{State: {"X":198,"Y":99.82960625000004,"VSpeed":0.035000000000001585,"Flags":1,"RoundedY":100}, Action: Left }
+{State: {"X":195,"Y":100.26460625000004,"VSpeed":0.4350000000000016,"Flags":1,"RoundedY":100}, Action: Left }
+{State: {"X":192,"Y":101.09960625000005,"VSpeed":0.8350000000000016,"Flags":1,"RoundedY":101}, Action: Left }
+{State: {"X":189,"Y":102.33460625000005,"VSpeed":1.2350000000000017,"Flags":1,"RoundedY":102}, Action: Left }
+{State: {"X":186,"Y":103.96960625000006,"VSpeed":1.6350000000000016,"Flags":1,"RoundedY":104}, Action: Left }
+{State: {"X":183,"Y":106.00460625000005,"VSpeed":2.0350000000000015,"Flags":1,"RoundedY":106}, Action: Left }
+{State: {"X":180,"Y":108.43960625000005,"VSpeed":2.4350000000000014,"Flags":1,"RoundedY":108}, Action: Left }
+{State: {"X":177,"Y":111.27460625000006,"VSpeed":2.8350000000000013,"Flags":1,"RoundedY":111}, Action: Left }
+{State: {"X":174,"Y":114.50960625000006,"VSpeed":3.235000000000001,"Flags":1,"RoundedY":115}, Action: Left }
+{State: {"X":171,"Y":118.14460625000007,"VSpeed":3.635000000000001,"Flags":1,"RoundedY":118}, Action: Left }
+{State: {"X":168,"Y":122.17960625000006,"VSpeed":4.035000000000001,"Flags":1,"RoundedY":122}, Action: Left }
+{State: {"X":165,"Y":126.61460625000007,"VSpeed":4.435000000000001,"Flags":1,"RoundedY":127}, Action: Left }
+{State: {"X":162,"Y":131.44960625000007,"VSpeed":4.835000000000002,"Flags":1,"RoundedY":131}, Action: Left }
+{State: {"X":159,"Y":136.6846062500001,"VSpeed":5.235000000000002,"Flags":1,"RoundedY":137}, Action: Left }
+{State: {"X":156,"Y":142.31960625000008,"VSpeed":5.6350000000000025,"Flags":1,"RoundedY":142}, Action: Left }
+{State: {"X":153,"Y":148.35460625000007,"VSpeed":6.035000000000003,"Flags":1,"RoundedY":148}, Action: Left }
+{State: {"X":153,"Y":154.78960625000008,"VSpeed":6.435000000000003,"Flags":1,"RoundedY":155}, Action: Neutral }
+{State: {"X":153,"Y":161.62460625000008,"VSpeed":6.8350000000000035,"Flags":1,"RoundedY":162}, Action: Neutral }
+{State: {"X":153,"Y":168.8596062500001,"VSpeed":7.235000000000004,"Flags":1,"RoundedY":169}, Action: Neutral }
+{State: {"X":153,"Y":176.4946062500001,"VSpeed":7.635000000000004,"Flags":1,"RoundedY":176}, Action: Neutral }
+{State: {"X":153,"Y":184.52960625000009,"VSpeed":8.035000000000004,"Flags":1,"RoundedY":185}, Action: Neutral }
+{State: {"X":154,"Y":192.9646062500001,"VSpeed":8.435000000000004,"Flags":5,"RoundedY":193}, Action: Right }
+{State: {"X":151,"Y":201.7996062500001,"VSpeed":8.835000000000004,"Flags":1,"RoundedY":202}, Action: Left }
+{State: {"X":154,"Y":211.0346062500001,"VSpeed":9.235000000000005,"Flags":5,"RoundedY":211}, Action: Right }
+{State: {"X":151,"Y":220.43460625000012,"VSpeed":9.4,"Flags":1,"RoundedY":220}, Action: Left }
+{State: {"X":154,"Y":229.83460625000012,"VSpeed":9.4,"Flags":5,"RoundedY":230}, Action: Right }
+{State: {"X":157,"Y":239.23460625000013,"VSpeed":9.4,"Flags":5,"RoundedY":239}, Action: Right }
+{State: {"X":157,"Y":236.23460625000013,"VSpeed":0,"Flags":4,"RoundedY":236}, Action: Jump }
+{State: {"X":160,"Y":236.63460625000013,"VSpeed":0.4,"Flags":4,"RoundedY":237}, Action: Right }
+{State: {"X":163,"Y":237.43460625000014,"VSpeed":0.8,"Flags":4,"RoundedY":237}, Action: Right }
+{State: {"X":166,"Y":238.63460625000013,"VSpeed":1.2000000000000002,"Flags":4,"RoundedY":239}, Action: Right }
+{State: {"X":169,"Y":240.23460625000013,"VSpeed":1.6,"Flags":4,"RoundedY":240}, Action: Right }
+{State: {"X":172,"Y":242.23460625000013,"VSpeed":2,"Flags":4,"RoundedY":242}, Action: Right }
+{State: {"X":175,"Y":244.63460625000013,"VSpeed":2.4,"Flags":4,"RoundedY":245}, Action: Right }
+{State: {"X":178,"Y":247.43460625000014,"VSpeed":2.8,"Flags":4,"RoundedY":247}, Action: Right }
+{State: {"X":181,"Y":250.63460625000013,"VSpeed":3.1999999999999997,"Flags":4,"RoundedY":251}, Action: Right }
+{State: {"X":184,"Y":254.23460625000013,"VSpeed":3.5999999999999996,"Flags":4,"RoundedY":254}, Action: Right }
+{State: {"X":187,"Y":258.2346062500001,"VSpeed":3.9999999999999996,"Flags":4,"RoundedY":258}, Action: Right }
+{State: {"X":190,"Y":262.6346062500001,"VSpeed":4.3999999999999995,"Flags":4,"RoundedY":263}, Action: Right }
+{State: {"X":193,"Y":267.4346062500001,"VSpeed":4.8,"Flags":4,"RoundedY":267}, Action: Right }
+{State: {"X":196,"Y":272.6346062500001,"VSpeed":5.2,"Flags":4,"RoundedY":273}, Action: Right }
+{State: {"X":193,"Y":278.2346062500001,"VSpeed":5.6000000000000005,"Flags":0,"RoundedY":278}, Action: Left }
+{State: {"X":193,"Y":284.2346062500001,"VSpeed":6.000000000000001,"Flags":0,"RoundedY":284}, Action: Neutral }
+{State: {"X":196,"Y":290.6346062500001,"VSpeed":6.400000000000001,"Flags":4,"RoundedY":291}, Action: Right }
+{State: {"X":193,"Y":297.4346062500001,"VSpeed":6.800000000000002,"Flags":0,"RoundedY":297}, Action: Left }
+{State: {"X":196,"Y":304.6346062500001,"VSpeed":7.200000000000002,"Flags":4,"RoundedY":305}, Action: Right }
+{State: {"X":199,"Y":312.2346062500001,"VSpeed":7.600000000000002,"Flags":4,"RoundedY":312}, Action: Right }
+{State: {"X":199,"Y":320.2346062500001,"VSpeed":8.000000000000002,"Flags":4,"RoundedY":320}, Action: Neutral }
+{State: {"X":199,"Y":328.6346062500001,"VSpeed":8.400000000000002,"Flags":4,"RoundedY":329}, Action: Neutral }
+{State: {"X":199,"Y":337.4346062500001,"VSpeed":8.800000000000002,"Flags":4,"RoundedY":337}, Action: Neutral }
+{State: {"X":199,"Y":346.6346062500001,"VSpeed":9.200000000000003,"Flags":4,"RoundedY":347}, Action: Neutral }
+{State: {"X":199,"Y":356.0346062500001,"VSpeed":9.4,"Flags":4,"RoundedY":356}, Action: Neutral }
+{State: {"X":199,"Y":365.43460625000006,"VSpeed":9.4,"Flags":4,"RoundedY":365}, Action: Neutral }
+{State: {"X":202,"Y":374.83460625000004,"VSpeed":9.4,"Flags":4,"RoundedY":375}, Action: Right }
+{State: {"X":199,"Y":384.23460625,"VSpeed":9.4,"Flags":0,"RoundedY":384}, Action: Left }
+{State: {"X":197,"Y":393.63460625,"VSpeed":9.4,"Flags":0,"RoundedY":394}, Action: Left }
+{State: {"X":194,"Y":403.03460624999997,"VSpeed":9.4,"Flags":0,"RoundedY":403}, Action: Left }
+{State: {"X":194,"Y":412.43460624999994,"VSpeed":9.4,"Flags":0,"RoundedY":412}, Action: Neutral }
+{State: {"X":194,"Y":421.8346062499999,"VSpeed":9.4,"Flags":0,"RoundedY":422}, Action: Neutral }
+{State: {"X":194,"Y":431.2346062499999,"VSpeed":9.4,"Flags":0,"RoundedY":431}, Action: Neutral }
+{State: {"X":194,"Y":440.6346062499999,"VSpeed":9.4,"Flags":0,"RoundedY":441}, Action: Neutral }
+{State: {"X":194,"Y":450.03460624999985,"VSpeed":9.4,"Flags":0,"RoundedY":450}, Action: Neutral }
+{State: {"X":194,"Y":459.43460624999983,"VSpeed":9.4,"Flags":0,"RoundedY":459}, Action: Neutral }
+{State: {"X":197,"Y":468.8346062499998,"VSpeed":9.4,"Flags":4,"RoundedY":469}, Action: Right }
+{State: {"X":197,"Y":470.8346062499998,"VSpeed":0,"Flags":5,"RoundedY":471}, Action: Neutral }
+{State: {"X":194,"Y":462.7346062499998,"VSpeed":-8.1,"Flags":1,"RoundedY":463}, Action: Left, Jump }
+{State: {"X":191,"Y":456.13460624999976,"VSpeed":-6.6,"Flags":0,"RoundedY":456}, Action: Left, Jump }
+{State: {"X":188,"Y":449.9346062499998,"VSpeed":-6.199999999999999,"Flags":0,"RoundedY":450}, Action: Left }
+{State: {"X":185,"Y":444.13460624999976,"VSpeed":-5.799999999999999,"Flags":0,"RoundedY":444}, Action: Left }
+{State: {"X":182,"Y":438.7346062499998,"VSpeed":-5.399999999999999,"Flags":0,"RoundedY":439}, Action: Left }
+{State: {"X":179,"Y":436.7046062499998,"VSpeed":-2.0299999999999994,"Flags":0,"RoundedY":437}, Action: Left, Release }
+{State: {"X":176,"Y":436.1911062499998,"VSpeed":-0.5134999999999997,"Flags":0,"RoundedY":436}, Action: Left, Release }
+{State: {"X":173,"Y":436.3600312499998,"VSpeed":0.16892500000000013,"Flags":0,"RoundedY":436}, Action: Left, Release }
+{State: {"X":170,"Y":436.92895624999977,"VSpeed":0.5689250000000001,"Flags":0,"RoundedY":437}, Action: Left }
+{State: {"X":167,"Y":437.8978812499998,"VSpeed":0.9689250000000001,"Flags":0,"RoundedY":438}, Action: Left }
+{State: {"X":164,"Y":439.2668062499998,"VSpeed":1.3689250000000002,"Flags":0,"RoundedY":439}, Action: Left }
+{State: {"X":161,"Y":441.0357312499998,"VSpeed":1.7689250000000003,"Flags":0,"RoundedY":441}, Action: Left }
+{State: {"X":158,"Y":443.2046562499998,"VSpeed":2.168925,"Flags":0,"RoundedY":443}, Action: Left }
+{State: {"X":155,"Y":445.7735812499998,"VSpeed":2.568925,"Flags":0,"RoundedY":446}, Action: Left }
+{State: {"X":152,"Y":448.7425062499998,"VSpeed":2.968925,"Flags":0,"RoundedY":449}, Action: Left }
+{State: {"X":149,"Y":452.1114312499998,"VSpeed":3.368925,"Flags":0,"RoundedY":452}, Action: Left }
+{State: {"X":152,"Y":455.8803562499998,"VSpeed":3.768925,"Flags":4,"RoundedY":456}, Action: Right }
+{State: {"X":152,"Y":460.0492812499998,"VSpeed":4.168925,"Flags":4,"RoundedY":460}, Action: Neutral }
+{State: {"X":155,"Y":464.6182062499998,"VSpeed":4.568925,"Flags":4,"RoundedY":465}, Action: Right }
+{State: {"X":152,"Y":469.5871312499998,"VSpeed":4.9689250000000005,"Flags":0,"RoundedY":470}, Action: Left }
+{State: {"X":152,"Y":474.9560562499998,"VSpeed":5.368925000000001,"Flags":0,"RoundedY":475}, Action: Neutral }
+{State: {"X":152,"Y":480.7249812499998,"VSpeed":5.768925000000001,"Flags":0,"RoundedY":481}, Action: Neutral }
+{State: {"X":152,"Y":486.8939062499998,"VSpeed":6.1689250000000015,"Flags":0,"RoundedY":487}, Action: Neutral }
+{State: {"X":152,"Y":493.4628312499998,"VSpeed":6.568925000000002,"Flags":0,"RoundedY":493}, Action: Neutral }
+{State: {"X":154,"Y":500.4317562499998,"VSpeed":6.968925000000002,"Flags":4,"RoundedY":500}, Action: Right }
+{State: {"X":151,"Y":507.8006812499998,"VSpeed":7.368925000000003,"Flags":0,"RoundedY":508}, Action: Left }
+{State: {"X":154,"Y":515.5696062499998,"VSpeed":7.768925000000003,"Flags":4,"RoundedY":516}, Action: Right }
+{State: {"X":157,"Y":523.7385312499998,"VSpeed":8.168925000000003,"Flags":4,"RoundedY":524}, Action: Right }
+{State: {"X":160,"Y":532.3074562499999,"VSpeed":8.568925000000004,"Flags":4,"RoundedY":532}, Action: Right }
+{State: {"X":163,"Y":541.2763812499999,"VSpeed":8.968925000000004,"Flags":4,"RoundedY":541}, Action: Right }
+{State: {"X":166,"Y":550.6453062499999,"VSpeed":9.368925000000004,"Flags":4,"RoundedY":551}, Action: Right }
+{State: {"X":169,"Y":560.0453062499998,"VSpeed":9.4,"Flags":4,"RoundedY":560}, Action: Right }
+{State: {"X":172,"Y":567.0453062499998,"VSpeed":0,"Flags":5,"RoundedY":567}, Action: Right }
+{State: {"X":175,"Y":563.6203062499999,"VSpeed":-3.4250000000000003,"Flags":5,"RoundedY":564}, Action: Right, Jump, Release }
+{State: {"X":178,"Y":560.8703062499999,"VSpeed":-2.75,"Flags":4,"RoundedY":561}, Action: Right, Jump, Release }
+{State: {"X":181,"Y":560.0328062499999,"VSpeed":-0.8375,"Flags":4,"RoundedY":560}, Action: Right, Release }
+{State: {"X":184,"Y":560.05593125,"VSpeed":0.023125000000000007,"Flags":4,"RoundedY":560}, Action: Right, Release }
+{State: {"X":187,"Y":560.47905625,"VSpeed":0.42312500000000003,"Flags":4,"RoundedY":560}, Action: Right }
+{State: {"X":190,"Y":561.30218125,"VSpeed":0.8231250000000001,"Flags":4,"RoundedY":561}, Action: Right }
+{State: {"X":193,"Y":562.52530625,"VSpeed":1.223125,"Flags":4,"RoundedY":563}, Action: Right }
+{State: {"X":196,"Y":564.1484312499999,"VSpeed":1.623125,"Flags":4,"RoundedY":564}, Action: Right }
+{State: {"X":199,"Y":566.17155625,"VSpeed":2.023125,"Flags":4,"RoundedY":566}, Action: Right }
+{State: {"X":202,"Y":567.17155625,"VSpeed":0,"Flags":5,"RoundedY":567}, Action: Right }
+{State: {"X":205,"Y":563.74655625,"VSpeed":-3.4250000000000003,"Flags":5,"RoundedY":564}, Action: Right, Jump, Release }
+{State: {"X":208,"Y":560.99655625,"VSpeed":-2.75,"Flags":4,"RoundedY":561}, Action: Right, Jump, Release }
+{State: {"X":211,"Y":560.15905625,"VSpeed":-0.8375,"Flags":4,"RoundedY":560}, Action: Right, Release }
+{State: {"X":214,"Y":560.1821812500001,"VSpeed":0.023125000000000007,"Flags":4,"RoundedY":560}, Action: Right, Release }
+{State: {"X":217,"Y":560.6053062500001,"VSpeed":0.42312500000000003,"Flags":4,"RoundedY":561}, Action: Right }
+{State: {"X":220,"Y":561.4284312500001,"VSpeed":0.8231250000000001,"Flags":4,"RoundedY":561}, Action: Right }
+{State: {"X":223,"Y":562.6515562500001,"VSpeed":1.223125,"Flags":4,"RoundedY":563}, Action: Right }
+{State: {"X":226,"Y":564.2746812500001,"VSpeed":1.623125,"Flags":4,"RoundedY":564}, Action: Right }
+{State: {"X":229,"Y":566.2978062500001,"VSpeed":2.023125,"Flags":4,"RoundedY":566}, Action: Right }
+{State: {"X":232,"Y":567.2978062500001,"VSpeed":0,"Flags":5,"RoundedY":567}, Action: Right }
+{State: {"X":235,"Y":563.8728062500002,"VSpeed":-3.4250000000000003,"Flags":5,"RoundedY":564}, Action: Right, Jump, Release }
+{State: {"X":238,"Y":561.1228062500002,"VSpeed":-2.75,"Flags":4,"RoundedY":561}, Action: Right, Jump, Release }
+{State: {"X":241,"Y":560.2853062500002,"VSpeed":-0.8375,"Flags":4,"RoundedY":560}, Action: Right, Release }
+{State: {"X":244,"Y":560.3084312500002,"VSpeed":0.023125000000000007,"Flags":4,"RoundedY":560}, Action: Right, Release }
+{State: {"X":247,"Y":560.7315562500003,"VSpeed":0.42312500000000003,"Flags":4,"RoundedY":561}, Action: Right }
+{State: {"X":250,"Y":561.5546812500003,"VSpeed":0.8231250000000001,"Flags":4,"RoundedY":562}, Action: Right }
+{State: {"X":253,"Y":562.7778062500003,"VSpeed":1.223125,"Flags":4,"RoundedY":563}, Action: Right }
+{State: {"X":256,"Y":564.4009312500002,"VSpeed":1.623125,"Flags":4,"RoundedY":564}, Action: Right }
+{State: {"X":259,"Y":566.4240562500003,"VSpeed":2.023125,"Flags":4,"RoundedY":566}, Action: Right }
+{State: {"X":262,"Y":567.4240562500003,"VSpeed":0,"Flags":5,"RoundedY":567}, Action: Right }
+{State: {"X":265,"Y":563.9990562500003,"VSpeed":-3.4250000000000003,"Flags":5,"RoundedY":564}, Action: Right, Jump, Release }
+{State: {"X":268,"Y":561.2490562500003,"VSpeed":-2.75,"Flags":4,"RoundedY":561}, Action: Right, Jump, Release }
+{State: {"X":271,"Y":560.4115562500003,"VSpeed":-0.8375,"Flags":4,"RoundedY":560}, Action: Right, Release }
+{State: {"X":274,"Y":560.4346812500004,"VSpeed":0.023125000000000007,"Flags":4,"RoundedY":560}, Action: Right, Release }
+{State: {"X":277,"Y":560.8578062500004,"VSpeed":0.42312500000000003,"Flags":4,"RoundedY":561}, Action: Right }
+{State: {"X":280,"Y":561.6809312500004,"VSpeed":0.8231250000000001,"Flags":4,"RoundedY":562}, Action: Right }
+{State: {"X":283,"Y":562.9040562500004,"VSpeed":1.223125,"Flags":4,"RoundedY":563}, Action: Right }
+{State: {"X":286,"Y":564.5271812500004,"VSpeed":1.623125,"Flags":4,"RoundedY":565}, Action: Right }
+{State: {"X":289,"Y":566.5503062500004,"VSpeed":2.023125,"Flags":4,"RoundedY":567}, Action: Right }
+{State: {"X":292,"Y":563.1253062500004,"VSpeed":-3.4250000000000003,"Flags":5,"RoundedY":563}, Action: Right, Jump, Release }
+{State: {"X":295,"Y":560.3753062500004,"VSpeed":-2.75,"Flags":4,"RoundedY":560}, Action: Right, Jump, Release }
+{State: {"X":298,"Y":559.5378062500005,"VSpeed":-0.8375,"Flags":4,"RoundedY":560}, Action: Right, Release }
+{State: {"X":301,"Y":559.5609312500005,"VSpeed":0.023125000000000007,"Flags":4,"RoundedY":560}, Action: Right, Release }
+{State: {"X":304,"Y":559.9840562500005,"VSpeed":0.42312500000000003,"Flags":4,"RoundedY":560}, Action: Right }
+{State: {"X":307,"Y":560.8071812500006,"VSpeed":0.8231250000000001,"Flags":4,"RoundedY":561}, Action: Right }
+{State: {"X":310,"Y":562.0303062500005,"VSpeed":1.223125,"Flags":4,"RoundedY":562}, Action: Right }
+{State: {"X":313,"Y":563.6534312500005,"VSpeed":1.623125,"Flags":4,"RoundedY":564}, Action: Right }
+{State: {"X":316,"Y":565.6765562500005,"VSpeed":2.023125,"Flags":4,"RoundedY":566}, Action: Right }
+{State: {"X":319,"Y":566.6765562500005,"VSpeed":0,"Flags":5,"RoundedY":567}, Action: Right }
+{State: {"X":322,"Y":563.2515562500006,"VSpeed":-3.4250000000000003,"Flags":5,"RoundedY":563}, Action: Right, Jump, Release }
+{State: {"X":325,"Y":562.1103062500006,"VSpeed":-1.1412500000000003,"Flags":5,"RoundedY":562}, Action: Right, Release }
+{State: {"X":328,"Y":561.9967437500006,"VSpeed":-0.11356250000000012,"Flags":5,"RoundedY":562}, Action: Right, Release }
+{State: {"X":331,"Y":562.2831812500007,"VSpeed":0.2864374999999999,"Flags":5,"RoundedY":562}, Action: Right }
+{State: {"X":334,"Y":562.9696187500007,"VSpeed":0.6864374999999999,"Flags":5,"RoundedY":563}, Action: Right }
+{State: {"X":337,"Y":564.0560562500007,"VSpeed":1.0864375,"Flags":5,"RoundedY":564}, Action: Right }
+{State: {"X":340,"Y":565.5424937500006,"VSpeed":1.4864375,"Flags":5,"RoundedY":566}, Action: Right }
+{State: {"X":343,"Y":567.4289312500007,"VSpeed":1.8864375,"Flags":5,"RoundedY":567}, Action: Right }
+{State: {"X":346,"Y":559.3289312500007,"VSpeed":-8.1,"Flags":5,"RoundedY":559}, Action: Right, Jump }
+{State: {"X":349,"Y":551.6289312500006,"VSpeed":-7.699999999999999,"Flags":5,"RoundedY":552}, Action: Right }
+{State: {"X":352,"Y":544.3289312500007,"VSpeed":-7.299999999999999,"Flags":5,"RoundedY":544}, Action: Right }
+{State: {"X":355,"Y":537.7289312500006,"VSpeed":-6.6,"Flags":4,"RoundedY":538}, Action: Right, Jump }
+{State: {"X":358,"Y":531.5289312500006,"VSpeed":-6.199999999999999,"Flags":4,"RoundedY":532}, Action: Right }
+{State: {"X":361,"Y":525.7289312500006,"VSpeed":-5.799999999999999,"Flags":4,"RoundedY":526}, Action: Right }
+{State: {"X":364,"Y":520.3289312500007,"VSpeed":-5.399999999999999,"Flags":4,"RoundedY":520}, Action: Right }
+{State: {"X":367,"Y":515.3289312500007,"VSpeed":-4.999999999999998,"Flags":4,"RoundedY":515}, Action: Right }
+{State: {"X":370,"Y":510.72893125000064,"VSpeed":-4.599999999999998,"Flags":4,"RoundedY":511}, Action: Right }
+{State: {"X":373,"Y":506.52893125000065,"VSpeed":-4.1999999999999975,"Flags":4,"RoundedY":507}, Action: Right }
+{State: {"X":376,"Y":502.72893125000064,"VSpeed":-3.7999999999999976,"Flags":4,"RoundedY":503}, Action: Right }
+{State: {"X":379,"Y":501.41893125000064,"VSpeed":-1.3099999999999987,"Flags":4,"RoundedY":501}, Action: Right, Release }
+{State: {"X":382,"Y":501.22943125000063,"VSpeed":-0.18949999999999945,"Flags":4,"RoundedY":501}, Action: Right, Release }
+{State: {"X":385,"Y":501.54415625000064,"VSpeed":0.31472500000000025,"Flags":4,"RoundedY":502}, Action: Right, Release }
+{State: {"X":388,"Y":502.2588812500006,"VSpeed":0.7147250000000003,"Flags":4,"RoundedY":502}, Action: Right }
+{State: {"X":391,"Y":503.37360625000065,"VSpeed":1.1147250000000004,"Flags":4,"RoundedY":503}, Action: Right }
+{State: {"X":394,"Y":499.94860625000064,"VSpeed":-3.4250000000000003,"Flags":5,"RoundedY":500}, Action: Right, Jump, Release }
+{State: {"X":397,"Y":497.19860625000064,"VSpeed":-2.75,"Flags":4,"RoundedY":497}, Action: Right, Jump, Release }
+{State: {"X":400,"Y":496.36110625000066,"VSpeed":-0.8375,"Flags":4,"RoundedY":496}, Action: Right, Release }
+{State: {"X":403,"Y":496.38423125000065,"VSpeed":0.023125000000000007,"Flags":4,"RoundedY":496}, Action: Right, Release }
+{State: {"X":406,"Y":496.8073562500007,"VSpeed":0.42312500000000003,"Flags":4,"RoundedY":497}, Action: Right }
+{State: {"X":409,"Y":497.6304812500007,"VSpeed":0.8231250000000001,"Flags":4,"RoundedY":498}, Action: Right }
+{State: {"X":412,"Y":498.85360625000067,"VSpeed":1.223125,"Flags":4,"RoundedY":499}, Action: Right }
+{State: {"X":415,"Y":500.4767312500007,"VSpeed":1.623125,"Flags":4,"RoundedY":500}, Action: Right }
+{State: {"X":418,"Y":502.4998562500007,"VSpeed":2.023125,"Flags":4,"RoundedY":502}, Action: Right }
+{State: {"X":421,"Y":504.9229812500007,"VSpeed":2.4231249999999998,"Flags":4,"RoundedY":505}, Action: Right }
+{State: {"X":424,"Y":507.7461062500007,"VSpeed":2.8231249999999997,"Flags":4,"RoundedY":508}, Action: Right }
+{State: {"X":427,"Y":510.9692312500007,"VSpeed":3.2231249999999996,"Flags":4,"RoundedY":511}, Action: Right }
+{State: {"X":430,"Y":514.5923562500006,"VSpeed":3.6231249999999995,"Flags":4,"RoundedY":515}, Action: Right }
+{State: {"X":433,"Y":518.6154812500007,"VSpeed":4.023124999999999,"Flags":4,"RoundedY":519}, Action: Right }
+{State: {"X":436,"Y":523.0386062500007,"VSpeed":4.423125,"Flags":4,"RoundedY":523}, Action: Right }
+{State: {"X":439,"Y":527.8617312500007,"VSpeed":4.823125,"Flags":4,"RoundedY":528}, Action: Right }
+{State: {"X":442,"Y":533.0848562500007,"VSpeed":5.2231250000000005,"Flags":4,"RoundedY":533}, Action: Right }
+{State: {"X":445,"Y":538.7079812500007,"VSpeed":5.623125000000001,"Flags":4,"RoundedY":539}, Action: Right }
+{State: {"X":448,"Y":544.7311062500007,"VSpeed":6.023125000000001,"Flags":4,"RoundedY":545}, Action: Right }
+{State: {"X":451,"Y":551.1542312500007,"VSpeed":6.4231250000000015,"Flags":4,"RoundedY":551}, Action: Right }
+{State: {"X":454,"Y":557.9773562500008,"VSpeed":6.823125000000002,"Flags":4,"RoundedY":558}, Action: Right }
+{State: {"X":457,"Y":565.2004812500007,"VSpeed":7.223125000000002,"Flags":4,"RoundedY":565}, Action: Right }
+{State: {"X":460,"Y":567.2004812500007,"VSpeed":0,"Flags":5,"RoundedY":567}, Action: Right }
+{State: {"X":463,"Y":563.7754812500008,"VSpeed":-3.4250000000000003,"Flags":5,"RoundedY":564}, Action: Right, Jump, Release }
+{State: {"X":466,"Y":561.0254812500008,"VSpeed":-2.75,"Flags":4,"RoundedY":561}, Action: Right, Jump, Release }
+{State: {"X":469,"Y":560.1879812500008,"VSpeed":-0.8375,"Flags":4,"RoundedY":560}, Action: Right, Release }
+{State: {"X":472,"Y":560.2111062500009,"VSpeed":0.023125000000000007,"Flags":4,"RoundedY":560}, Action: Right, Release }
+{State: {"X":475,"Y":560.6342312500009,"VSpeed":0.42312500000000003,"Flags":4,"RoundedY":561}, Action: Right }
+{State: {"X":478,"Y":561.4573562500009,"VSpeed":0.8231250000000001,"Flags":4,"RoundedY":561}, Action: Right }
+{State: {"X":481,"Y":562.6804812500009,"VSpeed":1.223125,"Flags":4,"RoundedY":563}, Action: Right }
+{State: {"X":484,"Y":564.3036062500008,"VSpeed":1.623125,"Flags":4,"RoundedY":564}, Action: Right }
+{State: {"X":487,"Y":566.3267312500009,"VSpeed":2.023125,"Flags":4,"RoundedY":566}, Action: Right }
+{State: {"X":490,"Y":567.3267312500009,"VSpeed":0,"Flags":5,"RoundedY":567}, Action: Right }
+{State: {"X":493,"Y":563.9017312500009,"VSpeed":-3.4250000000000003,"Flags":5,"RoundedY":564}, Action: Right, Jump, Release }
+{State: {"X":496,"Y":557.3017312500009,"VSpeed":-6.6,"Flags":4,"RoundedY":557}, Action: Right, Jump }
+{State: {"X":499,"Y":551.1017312500009,"VSpeed":-6.199999999999999,"Flags":4,"RoundedY":551}, Action: Right }
+{State: {"X":502,"Y":545.3017312500009,"VSpeed":-5.799999999999999,"Flags":4,"RoundedY":545}, Action: Right }
+{State: {"X":505,"Y":539.9017312500009,"VSpeed":-5.399999999999999,"Flags":4,"RoundedY":540}, Action: Right }
+{State: {"X":508,"Y":534.9017312500009,"VSpeed":-4.999999999999998,"Flags":4,"RoundedY":535}, Action: Right }
+{State: {"X":511,"Y":533.0517312500009,"VSpeed":-1.8499999999999992,"Flags":4,"RoundedY":533}, Action: Right, Release }
+{State: {"X":514,"Y":531.6017312500009,"VSpeed":-1.4499999999999993,"Flags":4,"RoundedY":532}, Action: Right }
+{State: {"X":517,"Y":530.5517312500009,"VSpeed":-1.0499999999999994,"Flags":4,"RoundedY":531}, Action: Right }
+{State: {"X":520,"Y":530.4792312500009,"VSpeed":-0.07249999999999973,"Flags":4,"RoundedY":530}, Action: Right, Release }
+{State: {"X":523,"Y":530.846606250001,"VSpeed":0.3673750000000001,"Flags":4,"RoundedY":531}, Action: Right, Release }
+{State: {"X":526,"Y":531.613981250001,"VSpeed":0.7673750000000001,"Flags":4,"RoundedY":532}, Action: Right }
+{State: {"X":529,"Y":532.781356250001,"VSpeed":1.1673750000000003,"Flags":4,"RoundedY":533}, Action: Right }
+{State: {"X":532,"Y":534.3487312500009,"VSpeed":1.5673750000000002,"Flags":4,"RoundedY":534}, Action: Right }
+{State: {"X":535,"Y":536.3161062500009,"VSpeed":1.967375,"Flags":4,"RoundedY":536}, Action: Right }
+{State: {"X":538,"Y":538.6834812500009,"VSpeed":2.367375,"Flags":4,"RoundedY":539}, Action: Right }
+{State: {"X":541,"Y":541.4508562500009,"VSpeed":2.767375,"Flags":4,"RoundedY":541}, Action: Right }
+{State: {"X":544,"Y":544.6182312500009,"VSpeed":3.167375,"Flags":4,"RoundedY":545}, Action: Right }
+{State: {"X":547,"Y":548.1856062500009,"VSpeed":3.5673749999999997,"Flags":4,"RoundedY":548}, Action: Right }
+{State: {"X":550,"Y":552.1529812500008,"VSpeed":3.9673749999999997,"Flags":4,"RoundedY":552}, Action: Right }
+{State: {"X":553,"Y":556.5203562500009,"VSpeed":4.367375,"Flags":4,"RoundedY":557}, Action: Right }
+{State: {"X":556,"Y":561.2877312500009,"VSpeed":4.767375,"Flags":4,"RoundedY":561}, Action: Right }
+{State: {"X":559,"Y":566.4551062500009,"VSpeed":5.167375000000001,"Flags":4,"RoundedY":566}, Action: Right }
+{State: {"X":562,"Y":567.4551062500009,"VSpeed":0,"Flags":5,"RoundedY":567}, Action: Right }
+{State: {"X":565,"Y":564.0301062500009,"VSpeed":-3.4250000000000003,"Flags":5,"RoundedY":564}, Action: Right, Jump, Release }
+{State: {"X":568,"Y":561.2801062500009,"VSpeed":-2.75,"Flags":4,"RoundedY":561}, Action: Right, Jump, Release }
+{State: {"X":571,"Y":560.442606250001,"VSpeed":-0.8375,"Flags":4,"RoundedY":560}, Action: Right, Release }
+{State: {"X":574,"Y":560.465731250001,"VSpeed":0.023125000000000007,"Flags":4,"RoundedY":560}, Action: Right, Release }
+{State: {"X":577,"Y":560.888856250001,"VSpeed":0.42312500000000003,"Flags":4,"RoundedY":561}, Action: Right }
+{State: {"X":580,"Y":561.711981250001,"VSpeed":0.8231250000000001,"Flags":4,"RoundedY":562}, Action: Right }
+{State: {"X":583,"Y":562.935106250001,"VSpeed":1.223125,"Flags":4,"RoundedY":563}, Action: Right }
+{State: {"X":586,"Y":564.558231250001,"VSpeed":1.623125,"Flags":4,"RoundedY":565}, Action: Right }
+{State: {"X":589,"Y":566.581356250001,"VSpeed":2.023125,"Flags":4,"RoundedY":567}, Action: Right }
+{State: {"X":592,"Y":558.481356250001,"VSpeed":-8.1,"Flags":5,"RoundedY":558}, Action: Right, Jump }
+{State: {"X":595,"Y":551.881356250001,"VSpeed":-6.6,"Flags":4,"RoundedY":552}, Action: Right, Jump }
+{State: {"X":598,"Y":545.6813562500009,"VSpeed":-6.199999999999999,"Flags":4,"RoundedY":546}, Action: Right }
+{State: {"X":601,"Y":539.881356250001,"VSpeed":-5.799999999999999,"Flags":4,"RoundedY":540}, Action: Right }
+{State: {"X":604,"Y":534.481356250001,"VSpeed":-5.399999999999999,"Flags":4,"RoundedY":534}, Action: Right }
+{State: {"X":607,"Y":532.451356250001,"VSpeed":-2.0299999999999994,"Flags":4,"RoundedY":532}, Action: Right, Release }
+{State: {"X":610,"Y":531.937856250001,"VSpeed":-0.5134999999999997,"Flags":4,"RoundedY":532}, Action: Right, Release }
+{State: {"X":613,"Y":532.106781250001,"VSpeed":0.16892500000000013,"Flags":4,"RoundedY":532}, Action: Right, Release }
+{State: {"X":616,"Y":532.675706250001,"VSpeed":0.5689250000000001,"Flags":4,"RoundedY":533}, Action: Right }
+{State: {"X":619,"Y":533.644631250001,"VSpeed":0.9689250000000001,"Flags":4,"RoundedY":534}, Action: Right }
+{State: {"X":622,"Y":535.013556250001,"VSpeed":1.3689250000000002,"Flags":4,"RoundedY":535}, Action: Right }
+{State: {"X":625,"Y":526.913556250001,"VSpeed":-8.1,"Flags":5,"RoundedY":527}, Action: Right, Jump }
+{State: {"X":628,"Y":520.3135562500009,"VSpeed":-6.6,"Flags":4,"RoundedY":520}, Action: Right, Jump }
+{State: {"X":631,"Y":514.1135562500009,"VSpeed":-6.199999999999999,"Flags":4,"RoundedY":514}, Action: Right }
+{State: {"X":634,"Y":508.3135562500009,"VSpeed":-5.799999999999999,"Flags":4,"RoundedY":508}, Action: Right }
+{State: {"X":637,"Y":502.9135562500009,"VSpeed":-5.399999999999999,"Flags":4,"RoundedY":503}, Action: Right }
+{State: {"X":640,"Y":499.4885562500009,"VSpeed":-3.4250000000000003,"Flags":5,"RoundedY":499}, Action: Right, Jump, Release }
+{State: {"X":643,"Y":496.7385562500009,"VSpeed":-2.75,"Flags":4,"RoundedY":497}, Action: Right, Jump, Release }
+{State: {"X":646,"Y":494.3885562500009,"VSpeed":-2.35,"Flags":4,"RoundedY":494}, Action: Right }
+{State: {"X":649,"Y":492.4385562500009,"VSpeed":-1.9500000000000002,"Flags":4,"RoundedY":492}, Action: Right }
+{State: {"X":652,"Y":491.96105625000087,"VSpeed":-0.47750000000000004,"Flags":4,"RoundedY":492}, Action: Right, Release }
+{State: {"X":655,"Y":491.8835562500009,"VSpeed":-0.07750000000000001,"Flags":4,"RoundedY":492}, Action: Right }
+{State: {"X":658,"Y":492.20605625000087,"VSpeed":0.3225,"Flags":4,"RoundedY":492}, Action: Right }
+{State: {"X":661,"Y":492.9285562500009,"VSpeed":0.7225,"Flags":4,"RoundedY":493}, Action: Right }
+{State: {"X":664,"Y":494.0510562500009,"VSpeed":1.1225,"Flags":4,"RoundedY":494}, Action: Right }
+{State: {"X":667,"Y":495.5735562500009,"VSpeed":1.5225,"Flags":4,"RoundedY":496}, Action: Right }
+{State: {"X":670,"Y":497.4960562500009,"VSpeed":1.9224999999999999,"Flags":4,"RoundedY":497}, Action: Right }
+{State: {"X":673,"Y":499.8185562500009,"VSpeed":2.3225,"Flags":4,"RoundedY":500}, Action: Right }
+{State: {"X":676,"Y":502.5410562500009,"VSpeed":2.7224999999999997,"Flags":4,"RoundedY":503}, Action: Right }
+{State: {"X":679,"Y":502.5410562500009,"VSpeed":0,"Flags":5,"RoundedY":503}, Action: Right }
+{State: {"X":682,"Y":494.4410562500009,"VSpeed":-8.1,"Flags":5,"RoundedY":494}, Action: Right, Jump }
+{State: {"X":685,"Y":486.7410562500009,"VSpeed":-7.699999999999999,"Flags":5,"RoundedY":487}, Action: Right }
+{State: {"X":688,"Y":479.4410562500009,"VSpeed":-7.299999999999999,"Flags":5,"RoundedY":479}, Action: Right }
+{State: {"X":691,"Y":472.5410562500009,"VSpeed":-6.899999999999999,"Flags":5,"RoundedY":473}, Action: Right }
+{State: {"X":694,"Y":466.0410562500009,"VSpeed":-6.499999999999998,"Flags":5,"RoundedY":466}, Action: Right }
+{State: {"X":697,"Y":459.9410562500009,"VSpeed":-6.099999999999998,"Flags":5,"RoundedY":460}, Action: Right }
+{State: {"X":700,"Y":454.2410562500009,"VSpeed":-5.6999999999999975,"Flags":5,"RoundedY":454}, Action: Right }
+{State: {"X":703,"Y":448.9410562500009,"VSpeed":-5.299999999999997,"Flags":5,"RoundedY":449}, Action: Right }
+{State: {"X":706,"Y":444.0410562500009,"VSpeed":-4.899999999999997,"Flags":5,"RoundedY":444}, Action: Right }
+{State: {"X":709,"Y":439.5410562500009,"VSpeed":-4.4999999999999964,"Flags":5,"RoundedY":440}, Action: Right }
+{State: {"X":712,"Y":435.4410562500009,"VSpeed":-4.099999999999996,"Flags":5,"RoundedY":435}, Action: Right }
+{State: {"X":715,"Y":431.7410562500009,"VSpeed":-3.699999999999996,"Flags":5,"RoundedY":432}, Action: Right }
+{State: {"X":718,"Y":428.4410562500009,"VSpeed":-3.2999999999999963,"Flags":5,"RoundedY":428}, Action: Right }
+{State: {"X":721,"Y":425.5410562500009,"VSpeed":-2.8999999999999964,"Flags":5,"RoundedY":426}, Action: Right }
+{State: {"X":724,"Y":423.0410562500009,"VSpeed":-2.4999999999999964,"Flags":5,"RoundedY":423}, Action: Right }
+{State: {"X":727,"Y":420.9410562500009,"VSpeed":-2.0999999999999965,"Flags":5,"RoundedY":421}, Action: Right }
+{State: {"X":730,"Y":419.2410562500009,"VSpeed":-1.6999999999999966,"Flags":5,"RoundedY":419}, Action: Right }
+{State: {"X":733,"Y":418.8760562500009,"VSpeed":-0.36499999999999844,"Flags":5,"RoundedY":419}, Action: Right, Release }
+{State: {"X":736,"Y":419.1118062500009,"VSpeed":0.2357500000000007,"Flags":5,"RoundedY":419}, Action: Right, Release }
+{State: {"X":739,"Y":412.51180625000086,"VSpeed":-6.6,"Flags":4,"RoundedY":413}, Action: Right, Jump }
+{State: {"X":742,"Y":406.31180625000087,"VSpeed":-6.199999999999999,"Flags":4,"RoundedY":406}, Action: Right }
+{State: {"X":745,"Y":400.51180625000086,"VSpeed":-5.799999999999999,"Flags":4,"RoundedY":401}, Action: Right }
+{State: {"X":742,"Y":395.1118062500009,"VSpeed":-5.399999999999999,"Flags":0,"RoundedY":395}, Action: Left }
+{State: {"X":739,"Y":390.1118062500009,"VSpeed":-4.999999999999998,"Flags":0,"RoundedY":390}, Action: Left }
+{State: {"X":736,"Y":385.51180625000086,"VSpeed":-4.599999999999998,"Flags":0,"RoundedY":386}, Action: Left }
+{State: {"X":733,"Y":381.31180625000087,"VSpeed":-4.1999999999999975,"Flags":0,"RoundedY":381}, Action: Left }
+{State: {"X":730,"Y":377.51180625000086,"VSpeed":-3.7999999999999976,"Flags":0,"RoundedY":378}, Action: Left }
+{State: {"X":727,"Y":374.1118062500009,"VSpeed":-3.3999999999999977,"Flags":0,"RoundedY":374}, Action: Left }
+{State: {"X":724,"Y":372.9818062500009,"VSpeed":-1.129999999999999,"Flags":0,"RoundedY":373}, Action: Left, Release }
+{State: {"X":721,"Y":372.25180625000087,"VSpeed":-0.729999999999999,"Flags":0,"RoundedY":372}, Action: Left }
+{State: {"X":718,"Y":371.9218062500009,"VSpeed":-0.32999999999999896,"Flags":0,"RoundedY":372}, Action: Left }
+{State: {"X":715,"Y":372.1733062500009,"VSpeed":0.2515000000000005,"Flags":0,"RoundedY":372}, Action: Left, Release }
+{State: {"X":712,"Y":372.8248062500009,"VSpeed":0.6515000000000005,"Flags":0,"RoundedY":373}, Action: Left }
+{State: {"X":709,"Y":373.8763062500009,"VSpeed":1.0515000000000005,"Flags":0,"RoundedY":374}, Action: Left }
+{State: {"X":706,"Y":375.3278062500009,"VSpeed":1.4515000000000007,"Flags":0,"RoundedY":375}, Action: Left }
+{State: {"X":703,"Y":371.9028062500009,"VSpeed":-3.4250000000000003,"Flags":1,"RoundedY":372}, Action: Left, Jump, Release }
+{State: {"X":700,"Y":369.1528062500009,"VSpeed":-2.75,"Flags":0,"RoundedY":369}, Action: Left, Jump, Release }
+{State: {"X":697,"Y":368.3153062500009,"VSpeed":-0.8375,"Flags":0,"RoundedY":368}, Action: Left, Release }
+{State: {"X":694,"Y":368.3384312500009,"VSpeed":0.023125000000000007,"Flags":0,"RoundedY":368}, Action: Left, Release }
+{State: {"X":691,"Y":368.7615562500009,"VSpeed":0.42312500000000003,"Flags":0,"RoundedY":369}, Action: Left }
+{State: {"X":688,"Y":369.5846812500009,"VSpeed":0.8231250000000001,"Flags":0,"RoundedY":370}, Action: Left }
+{State: {"X":685,"Y":370.8078062500009,"VSpeed":1.223125,"Flags":0,"RoundedY":371}, Action: Left }
+{State: {"X":682,"Y":372.4309312500009,"VSpeed":1.623125,"Flags":0,"RoundedY":372}, Action: Left }
+{State: {"X":679,"Y":374.4540562500009,"VSpeed":2.023125,"Flags":0,"RoundedY":374}, Action: Left }
+{State: {"X":676,"Y":375.4540562500009,"VSpeed":0,"Flags":1,"RoundedY":375}, Action: Left }
+{State: {"X":673,"Y":372.0290562500009,"VSpeed":-3.4250000000000003,"Flags":1,"RoundedY":372}, Action: Left, Jump, Release }
+{State: {"X":670,"Y":369.2790562500009,"VSpeed":-2.75,"Flags":0,"RoundedY":369}, Action: Left, Jump, Release }
+{State: {"X":667,"Y":368.44155625000093,"VSpeed":-0.8375,"Flags":0,"RoundedY":368}, Action: Left, Release }
+{State: {"X":664,"Y":368.4646812500009,"VSpeed":0.023125000000000007,"Flags":0,"RoundedY":368}, Action: Left, Release }
+{State: {"X":661,"Y":368.88780625000095,"VSpeed":0.42312500000000003,"Flags":0,"RoundedY":369}, Action: Left }
+{State: {"X":658,"Y":369.71093125000095,"VSpeed":0.8231250000000001,"Flags":0,"RoundedY":370}, Action: Left }
+{State: {"X":655,"Y":370.93405625000094,"VSpeed":1.223125,"Flags":0,"RoundedY":371}, Action: Left }
+{State: {"X":652,"Y":372.55718125000095,"VSpeed":1.623125,"Flags":0,"RoundedY":373}, Action: Left }
+{State: {"X":649,"Y":374.58030625000094,"VSpeed":2.023125,"Flags":0,"RoundedY":375}, Action: Left }
+{State: {"X":646,"Y":371.15530625000093,"VSpeed":-3.4250000000000003,"Flags":1,"RoundedY":371}, Action: Left, Jump, Release }
+{State: {"X":643,"Y":364.5553062500009,"VSpeed":-6.6,"Flags":0,"RoundedY":365}, Action: Left, Jump }
+{State: {"X":640,"Y":358.3553062500009,"VSpeed":-6.199999999999999,"Flags":0,"RoundedY":358}, Action: Left }
+{State: {"X":637,"Y":352.5553062500009,"VSpeed":-5.799999999999999,"Flags":0,"RoundedY":353}, Action: Left }
+{State: {"X":634,"Y":347.15530625000093,"VSpeed":-5.399999999999999,"Flags":0,"RoundedY":347}, Action: Left }
+{State: {"X":631,"Y":345.12530625000096,"VSpeed":-2.0299999999999994,"Flags":0,"RoundedY":345}, Action: Left, Release }
+{State: {"X":628,"Y":343.49530625000097,"VSpeed":-1.6299999999999994,"Flags":0,"RoundedY":343}, Action: Left }
+{State: {"X":625,"Y":342.26530625000095,"VSpeed":-1.2299999999999995,"Flags":0,"RoundedY":342}, Action: Left }
+{State: {"X":622,"Y":341.43530625000096,"VSpeed":-0.8299999999999995,"Flags":0,"RoundedY":341}, Action: Left }
+{State: {"X":619,"Y":341.00530625000096,"VSpeed":-0.4299999999999995,"Flags":0,"RoundedY":341}, Action: Left }
+{State: {"X":616,"Y":341.21180625000096,"VSpeed":0.20650000000000024,"Flags":0,"RoundedY":341}, Action: Left, Release }
+{State: {"X":613,"Y":341.81830625000094,"VSpeed":0.6065000000000003,"Flags":0,"RoundedY":342}, Action: Left }
+{State: {"X":610,"Y":342.82480625000096,"VSpeed":1.0065000000000004,"Flags":0,"RoundedY":343}, Action: Left }
+{State: {"X":607,"Y":339.39980625000095,"VSpeed":-3.4250000000000003,"Flags":1,"RoundedY":339}, Action: Left, Jump, Release }
+{State: {"X":604,"Y":332.7998062500009,"VSpeed":-6.6,"Flags":0,"RoundedY":333}, Action: Left, Jump }
+{State: {"X":601,"Y":326.59980625000094,"VSpeed":-6.199999999999999,"Flags":0,"RoundedY":327}, Action: Left }
+{State: {"X":598,"Y":320.7998062500009,"VSpeed":-5.799999999999999,"Flags":0,"RoundedY":321}, Action: Left }
+{State: {"X":595,"Y":315.39980625000095,"VSpeed":-5.399999999999999,"Flags":0,"RoundedY":315}, Action: Left }
+{State: {"X":592,"Y":313.369806250001,"VSpeed":-2.0299999999999994,"Flags":0,"RoundedY":313}, Action: Left, Release }
+{State: {"X":589,"Y":311.739806250001,"VSpeed":-1.6299999999999994,"Flags":0,"RoundedY":312}, Action: Left }
+{State: {"X":586,"Y":310.50980625000096,"VSpeed":-1.2299999999999995,"Flags":0,"RoundedY":311}, Action: Left }
+{State: {"X":583,"Y":310.35630625000096,"VSpeed":-0.15349999999999975,"Flags":0,"RoundedY":310}, Action: Left, Release }
+{State: {"X":580,"Y":310.68723125000093,"VSpeed":0.33092500000000014,"Flags":0,"RoundedY":311}, Action: Left, Release }
+{State: {"X":577,"Y":307.2622312500009,"VSpeed":-3.4250000000000003,"Flags":1,"RoundedY":307}, Action: Left, Jump, Release }
+{State: {"X":574,"Y":304.5122312500009,"VSpeed":-2.75,"Flags":0,"RoundedY":305}, Action: Left, Jump, Release }
+{State: {"X":571,"Y":303.67473125000095,"VSpeed":-0.8375,"Flags":0,"RoundedY":304}, Action: Left, Release }
+{State: {"X":568,"Y":303.69785625000094,"VSpeed":0.023125000000000007,"Flags":0,"RoundedY":304}, Action: Left, Release }
+{State: {"X":565,"Y":304.12098125000097,"VSpeed":0.42312500000000003,"Flags":0,"RoundedY":304}, Action: Left }
+{State: {"X":562,"Y":304.94410625000097,"VSpeed":0.8231250000000001,"Flags":0,"RoundedY":305}, Action: Left }
+{State: {"X":559,"Y":306.16723125000095,"VSpeed":1.223125,"Flags":0,"RoundedY":306}, Action: Left }
+{State: {"X":556,"Y":307.79035625000097,"VSpeed":1.623125,"Flags":0,"RoundedY":308}, Action: Left }
+{State: {"X":553,"Y":309.81348125000096,"VSpeed":2.023125,"Flags":0,"RoundedY":310}, Action: Left }
+{State: {"X":550,"Y":310.81348125000096,"VSpeed":0,"Flags":1,"RoundedY":311}, Action: Left }
+{State: {"X":547,"Y":307.38848125000095,"VSpeed":-3.4250000000000003,"Flags":1,"RoundedY":307}, Action: Left, Jump, Release }
+{State: {"X":544,"Y":300.7884812500009,"VSpeed":-6.6,"Flags":0,"RoundedY":301}, Action: Left, Jump }
+{State: {"X":541,"Y":294.58848125000094,"VSpeed":-6.199999999999999,"Flags":0,"RoundedY":295}, Action: Left }
+{State: {"X":538,"Y":288.7884812500009,"VSpeed":-5.799999999999999,"Flags":0,"RoundedY":289}, Action: Left }
+{State: {"X":535,"Y":283.38848125000095,"VSpeed":-5.399999999999999,"Flags":0,"RoundedY":283}, Action: Left }
+{State: {"X":532,"Y":278.38848125000095,"VSpeed":-4.999999999999998,"Flags":0,"RoundedY":278}, Action: Left }
+{State: {"X":529,"Y":276.5384812500009,"VSpeed":-1.8499999999999992,"Flags":0,"RoundedY":277}, Action: Left, Release }
+{State: {"X":526,"Y":276.1059812500009,"VSpeed":-0.43249999999999966,"Flags":0,"RoundedY":276}, Action: Left, Release }
+{State: {"X":523,"Y":276.3113562500009,"VSpeed":0.20537500000000017,"Flags":0,"RoundedY":276}, Action: Left, Release }
+{State: {"X":520,"Y":276.9167312500009,"VSpeed":0.6053750000000002,"Flags":0,"RoundedY":277}, Action: Left }
+{State: {"X":517,"Y":277.9221062500009,"VSpeed":1.0053750000000004,"Flags":0,"RoundedY":278}, Action: Left }
+{State: {"X":514,"Y":279.3274812500009,"VSpeed":1.4053750000000003,"Flags":0,"RoundedY":279}, Action: Left }
+{State: {"X":511,"Y":281.13285625000094,"VSpeed":1.8053750000000002,"Flags":0,"RoundedY":281}, Action: Left }
+{State: {"X":508,"Y":283.33823125000094,"VSpeed":2.205375,"Flags":0,"RoundedY":283}, Action: Left }
+{State: {"X":505,"Y":285.9436062500009,"VSpeed":2.605375,"Flags":0,"RoundedY":286}, Action: Left }
+{State: {"X":502,"Y":288.94898125000094,"VSpeed":3.005375,"Flags":0,"RoundedY":289}, Action: Left }
+{State: {"X":499,"Y":292.35435625000093,"VSpeed":3.405375,"Flags":0,"RoundedY":292}, Action: Left }
+{State: {"X":496,"Y":296.15973125000096,"VSpeed":3.8053749999999997,"Flags":0,"RoundedY":296}, Action: Left }
+{State: {"X":493,"Y":300.36510625000096,"VSpeed":4.205375,"Flags":0,"RoundedY":300}, Action: Left }
+{State: {"X":490,"Y":304.97048125000094,"VSpeed":4.605375,"Flags":0,"RoundedY":305}, Action: Left }
+{State: {"X":487,"Y":309.97585625000096,"VSpeed":5.005375000000001,"Flags":0,"RoundedY":310}, Action: Left }
+{State: {"X":484,"Y":315.38123125000095,"VSpeed":5.405375000000001,"Flags":0,"RoundedY":315}, Action: Left }
+{State: {"X":481,"Y":321.186606250001,"VSpeed":5.8053750000000015,"Flags":0,"RoundedY":321}, Action: Left }
+{State: {"X":478,"Y":327.391981250001,"VSpeed":6.205375000000002,"Flags":0,"RoundedY":327}, Action: Left }
+{State: {"X":475,"Y":333.99735625000096,"VSpeed":6.605375000000002,"Flags":0,"RoundedY":334}, Action: Left }
+{State: {"X":472,"Y":341.002731250001,"VSpeed":7.005375000000003,"Flags":0,"RoundedY":341}, Action: Left }
+{State: {"X":469,"Y":348.40810625000097,"VSpeed":7.405375000000003,"Flags":0,"RoundedY":348}, Action: Left }
+{State: {"X":466,"Y":356.213481250001,"VSpeed":7.805375000000003,"Flags":0,"RoundedY":356}, Action: Left }
+{State: {"X":463,"Y":364.418856250001,"VSpeed":8.205375000000004,"Flags":0,"RoundedY":364}, Action: Left }
+{State: {"X":460,"Y":373.024231250001,"VSpeed":8.605375000000004,"Flags":0,"RoundedY":373}, Action: Left }
+{State: {"X":457,"Y":375.024231250001,"VSpeed":0,"Flags":1,"RoundedY":375}, Action: Left }
+{State: {"X":454,"Y":371.59923125000097,"VSpeed":-3.4250000000000003,"Flags":1,"RoundedY":372}, Action: Left, Jump, Release }
+{State: {"X":451,"Y":368.84923125000097,"VSpeed":-2.75,"Flags":0,"RoundedY":369}, Action: Left, Jump, Release }
+{State: {"X":448,"Y":368.011731250001,"VSpeed":-0.8375,"Flags":0,"RoundedY":368}, Action: Left, Release }
+{State: {"X":445,"Y":368.034856250001,"VSpeed":0.023125000000000007,"Flags":0,"RoundedY":368}, Action: Left, Release }
+{State: {"X":442,"Y":368.457981250001,"VSpeed":0.42312500000000003,"Flags":0,"RoundedY":368}, Action: Left }
+{State: {"X":439,"Y":369.281106250001,"VSpeed":0.8231250000000001,"Flags":0,"RoundedY":369}, Action: Left }
+{State: {"X":436,"Y":370.504231250001,"VSpeed":1.223125,"Flags":0,"RoundedY":371}, Action: Left }
+{State: {"X":433,"Y":372.127356250001,"VSpeed":1.623125,"Flags":0,"RoundedY":372}, Action: Left }
+{State: {"X":430,"Y":374.150481250001,"VSpeed":2.023125,"Flags":0,"RoundedY":374}, Action: Left }
+{State: {"X":427,"Y":375.150481250001,"VSpeed":0,"Flags":1,"RoundedY":375}, Action: Left }
+{State: {"X":424,"Y":371.725481250001,"VSpeed":-3.4250000000000003,"Flags":1,"RoundedY":372}, Action: Left, Jump, Release }
+{State: {"X":421,"Y":368.975481250001,"VSpeed":-2.75,"Flags":0,"RoundedY":369}, Action: Left, Jump, Release }
+{State: {"X":418,"Y":368.137981250001,"VSpeed":-0.8375,"Flags":0,"RoundedY":368}, Action: Left, Release }
+{State: {"X":415,"Y":368.161106250001,"VSpeed":0.023125000000000007,"Flags":0,"RoundedY":368}, Action: Left, Release }
+{State: {"X":412,"Y":368.58423125000104,"VSpeed":0.42312500000000003,"Flags":0,"RoundedY":369}, Action: Left }
+{State: {"X":409,"Y":369.40735625000104,"VSpeed":0.8231250000000001,"Flags":0,"RoundedY":369}, Action: Left }
+{State: {"X":406,"Y":370.630481250001,"VSpeed":1.223125,"Flags":0,"RoundedY":371}, Action: Left }
+{State: {"X":403,"Y":372.25360625000104,"VSpeed":1.623125,"Flags":0,"RoundedY":372}, Action: Left }
+{State: {"X":400,"Y":374.27673125000103,"VSpeed":2.023125,"Flags":0,"RoundedY":374}, Action: Left }
+{State: {"X":397,"Y":375.27673125000103,"VSpeed":0,"Flags":1,"RoundedY":375}, Action: Left }
+{State: {"X":394,"Y":371.851731250001,"VSpeed":-3.4250000000000003,"Flags":1,"RoundedY":372}, Action: Left, Jump, Release }
+{State: {"X":391,"Y":365.251731250001,"VSpeed":-6.6,"Flags":0,"RoundedY":365}, Action: Left, Jump }
+{State: {"X":388,"Y":362.681731250001,"VSpeed":-2.57,"Flags":0,"RoundedY":363}, Action: Left, Release }
